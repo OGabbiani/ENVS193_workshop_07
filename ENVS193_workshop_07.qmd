@@ -1,0 +1,13 @@
+---
+title: "test_doc"
+author: "Odile Gabbiani"
+format: html
+editor: visual
+---
+
+Here is some code 
+```{r}
+library(tidyverse)
+library(lterdatasampler)
+```
+
